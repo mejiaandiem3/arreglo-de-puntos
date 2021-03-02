@@ -20,7 +20,7 @@ namespace arreglo_de_puntos
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             //arreglo para puntos
-            /*Point[] puntos = {new Point (0,100),
+            Point[] puntos = {new Point (0,100),
                               new Point (50,80),
                               new Point (100,20),
                               new Point (150,80),
@@ -31,7 +31,7 @@ namespace arreglo_de_puntos
             Graphics papel = this.CreateGraphics();
             papel.DrawCurve(lapiz,puntos);
 
-            //para hacer estrella se puede con un poligono*/
+            //para hacer estrella se puede con un poligono
 
            
 
